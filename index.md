@@ -36,7 +36,7 @@ layout: default
     * A Simulation System for Multimodal Air-Ground Vehicle. ([202210174167.4](files/2022101741674.pdf))
     * An Autonomous Driving System for Air-Ground Vehicle. ([202110081611.3](files/2021100816113.pdf))
   * Paper:
-    * Path Planning for Air-Ground Amphibious Robot Considering Modal Switching Point Optimization. *(ICUAS 2023 accepted)*
+    * Path Planning for Air-Ground Amphibious Robot Considering Modal Switching Point Optimization ([paper](https://doi.org/10.1109/ICUAS57906.2023.10156162))
 
 <!-- ---
 
