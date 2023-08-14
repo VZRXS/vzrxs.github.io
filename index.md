@@ -16,7 +16,7 @@ layout: default
   * *Bachelor of Engineering.* Mechanical Engineering, Manufacturing and its Automation.
 
 # Projects
-* Trajectory prediction based on improved HiVT ([slides](files/Master_part.pdf))
+* Trajectory prediction based on improved HiVT ([thesis](files/Thesis_SUN_Honglin.pdf) \| [slides](files/Master_part.pdf))
   * A faster and more accurate [HiVT](https://github.com/ZikangZhou/HiVT)-inspired variant.
 * VFH + A* dynamic navigation ([paper](https://doi.org/10.1109/ICARM49381.2020.9195364) \| [video](https://www.bilibili.com/video/av62659157/))
   * A robot navigation scheme for dynamic environment.
@@ -33,8 +33,8 @@ layout: default
 * **Tsinghua University** (School of Vehicle and Mobility)
   * Research on air-ground hybrid motion robots. ([video1](files/robot_demo.mp4) \| [video2](files/planner_demo.mp4))
   * Patents (CN):
-    * A Simulation System for Multimodal Air-Ground Vehicle. ([202210174167.4](files/2022101741674.pdf))
-    * An Autonomous Driving System for Air-Ground Vehicle. ([202110081611.3](files/2021100816113.pdf))
+    * A Simulation System for Multimodal Air-Ground Vehicles. ([202210174167.4](files/2022101741674.pdf))
+    * An Autonomous Driving System for Air-Ground Vehicles. ([202110081611.3](files/2021100816113.pdf))
   * Paper:
     * Path Planning for Air-Ground Amphibious Robot Considering Modal Switching Point Optimization ([paper](https://doi.org/10.1109/ICUAS57906.2023.10156162))
 
