@@ -43,5 +43,3 @@ layout: default
 GitHub: [github.com/VZRXS](https://github.com/VZRXS)
 
 LinkedIn: [Honglin Sun](https://www.linkedin.com/in/honglin-s-2aa610105/) -->
-
-![](https://komarev.com/ghpvc/?username=vzrxs&color=blue&style=flat&label=VIEWS)
