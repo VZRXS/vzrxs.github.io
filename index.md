@@ -19,22 +19,22 @@ layout: default
 * Trajectory prediction based on improved HiVT ([thesis](files/Thesis_SUN_Honglin.pdf) \| [slides](files/Master_part.pdf))
   * A faster and more accurate [HiVT](https://github.com/ZikangZhou/HiVT)-inspired variant.
 * VFH + A* dynamic navigation ([paper](https://doi.org/10.1109/ICARM49381.2020.9195364) \| [video](https://www.bilibili.com/video/av62659157/))
-  * A robot navigation scheme for dynamic environment.
+  * A robot navigation scheme for dynamic environments.
 * Multi-task mobile robot ([paper](https://doi.org/10.1109/ICMA49215.2020.9233729) \| [slides](files/ICMA_2020_Presentation/ICMA_Oct14.pptx) \| [code](https://github.com/MXHsj/VFH_Astar_Navigation))
-  * A target searching and retrieval robot.
+  * A target-searching and retrieval robot.
   * [Best paper finalist](files/ICMA_2020_Presentation/Best_Paper_Finalist_for_IEEE_ICMA_2020-_Honglin_Sun.pdf).
 
 # Experiences
 * **OPPO** (OPPO Research Institute)
   * Research on learning-based trajectory prediction algorithm for autonomous driving.
   * CVPR 2022 WAD:
-    * Argoverse Motion Forecasting Challenge: Grand prize. ([technical report](https://arxiv.org/abs/2206.07934) \| [WAD replay](https://www.youtube.com/watch?v=Z1q9ijuLLvU&ab_channel=WADatCVPR))
+    * Argoverse Motion Forecasting Challenge: Grand prize. ([technical report](https://arxiv.org/abs/2206.07934) \| [WAD replay](https://youtu.be/Z1q9ijuLLvU?t=2231&si=K7kaEZRiGuk_IB6x))
     * Waymo Motion Prediction Challenge: 5th place in minFDE metric.
 * **Tsinghua University** (School of Vehicle and Mobility)
   * Research on air-ground hybrid motion robots. ([video1](files/robot_demo.mp4) \| [video2](files/planner_demo.mp4))
   * Patents (CN):
-    * A Simulation System for Multimodal Air-Ground Vehicles. ([202210174167.4](files/2022101741674.pdf))
-    * An Autonomous Driving System for Air-Ground Vehicles. ([202110081611.3](files/2021100816113.pdf))
+    * A Simulation System for Multimodal Air-Ground Vehicles. ([Google Patents](https://patents.google.com/patent/CN112818463B/))
+    * An Autonomous Driving System for Air-Ground Vehicles. ([Google Patents](https://patents.google.com/patent/CN114578798B/))
   * Paper:
     * Path Planning for Air-Ground Amphibious Robot Considering Modal Switching Point Optimization ([paper](https://doi.org/10.1109/ICUAS57906.2023.10156162))
 
@@ -43,3 +43,5 @@ layout: default
 GitHub: [github.com/VZRXS](https://github.com/VZRXS)
 
 LinkedIn: [Honglin Sun](https://www.linkedin.com/in/honglin-s-2aa610105/) -->
+
+![](https://komarev.com/ghpvc/?username=VZRXS&label=Ciallo~&abbreviated=true)
