@@ -44,4 +44,4 @@ GitHub: [github.com/VZRXS](https://github.com/VZRXS)
 
 LinkedIn: [Honglin Sun](https://www.linkedin.com/in/honglin-s-2aa610105/) -->
 
-![](https://komarev.com/ghpvc/?username=VZRXS&label=Ciallo~&abbreviated=true)
+[![Hits](https://hits.sh/vzrxs.github.io.svg?label=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C%20)%E2%8C%92%E2%98%86)](https://hits.sh/vzrxs.github.io/)
